@@ -7,3 +7,4 @@ with GitHub. Welcome aboard!
 
 1. Rasmus Källqvist 
 2. Carl Uddman Lindh
+3. Johan Norberg
