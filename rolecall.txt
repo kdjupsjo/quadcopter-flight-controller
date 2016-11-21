@@ -2,7 +2,8 @@
 
 This file is part of our little GitHub exercise. Write your name in this list, 
 and then commit your changes and check that the other project members can find 
-your name on this list. If they can find you, that means your up and running 
+your name on this list. If they can find you, that means you're up and running 
 with GitHub. Welcome aboard!
 
-1. Rasmus Källqvist 
+1. Rasmus KÃ¤llqvist 
+2. (Your name here!)
